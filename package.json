@@ -1,0 +1,27 @@
+{
+  "name": "activebox",
+  "version": "1.0.0",
+  "description": "activebox project",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmmansour/ActiveBox.git"
+  },
+  "keywords": [
+    "html",
+    "scss",
+    "parcel"
+  ],
+  "author": "Jimfiaf-Maria Mansour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmmansour/ActiveBox/issues"
+  },
+  "homepage": "https://github.com/jmmansour/ActiveBox#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
